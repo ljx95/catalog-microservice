@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/catalog-microservice.iml" filepath="$PROJECT_DIR$/catalog-microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/catalog-client/catalogclient.iml" filepath="$PROJECT_DIR$/catalog-client/catalogclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/catalog-common/catalogcommon.iml" filepath="$PROJECT_DIR$/catalog-common/catalogcommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/catalog-server/catalogserver.iml" filepath="$PROJECT_DIR$/catalog-server/catalogserver.iml" />
+    </modules>
+  </component>
+</project>
